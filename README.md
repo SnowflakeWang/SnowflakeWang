@@ -63,12 +63,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+To Be Continued. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ae7pucojnfbzfwft6fpwry6y5a&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
+<br/>   
 
 <br/>  
 
